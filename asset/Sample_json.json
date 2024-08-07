@@ -1,0 +1,33 @@
+[
+  {
+    "name":"Kumar",
+    "hobby" : "Heart specialist"
+  },
+   {
+    "name":"kannan",
+    "hobby" : "Dentist"
+  },
+
+  {
+    "name":"Karthi",
+    "hobby" : "cardioligit"
+  },
+ {
+    "name":"praveen",
+    "hobby" : "surgeon"
+  },
+ {
+    "name":"priya",
+    "hobby" : "nurse"
+  },
+ {
+    "name":"Kavin",
+    "hobby" : "ent doctor"
+  },
+ {
+    "name":"Kathir",
+    "hobby" : "paramacist"
+  }
+
+
+]
